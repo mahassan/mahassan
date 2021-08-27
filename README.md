@@ -4,6 +4,7 @@
 - [Simply Money](https://simplymoney.com)
 - [Oplo](www.myoplo.com)
 - [Believe Finance](https://www.believefinance.co.uk/)
+- [Kukri Sports](www.kukrisports.co.uk)
 
 - 🔭 I’m currently working on [creating project](https://github.com/mahassan/ammar-evening-news) in React.
 - 😄 Pronouns: He/His
