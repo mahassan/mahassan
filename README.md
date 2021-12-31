@@ -6,7 +6,7 @@
 - [Believe Finance](https://www.believefinance.co.uk/)
 - [Kukri Sports](www.kukrisports.co.uk)
 
-- 🔭 I’m currently working on [creating project](https://github.com/mahassan/ammar-evening-news) in React.
+- 🔭 I’m currently looking for work as a frontend developer or full stack developer.
 - 😄 Pronouns: He/His
 
 #### Follow me on [Twitter](www.twitter.com/ammar__mani)
