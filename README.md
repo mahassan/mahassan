@@ -9,18 +9,25 @@
 - 🔭 Coming soon.
 - 😄 Pronouns: He/His
 
-#### Follow me on [Twitter](www.twitter.com/ammar__mani)
+#### Any cool projects?
+- yes
+- 🚗 rentalcars searchbox clone (https://github.com/mahassan/vue-rental-cars)
+- 🧮 Currency Calculator (https://github.com/mahassan/vanila-js-currency-converter)
+
+- 🌱 I’m currently learning TypeScript
+- 👀 I,m currently looking for work.
+- 📫 How to reach me: my (email)[ammar@ammarhassan.co.uk)
 
 <!--
 **mahassan/mahassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 
 - ⚡ Fun fact: ...
 -->
