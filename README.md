@@ -1,6 +1,8 @@
 ### Hi there 👋 My name is Ammar. I am frontend Developer. I work in React, Vue. I love Sass and BEM(not the British Empire Medal but Block Element Modifier).
 
 #### I have done work on the following websites
+- [Specsavers](www.specsavers.co.uk)
+- [Travis Perkins](www.travisperkins.co.uk)
 - [Simply Money](https://simplymoney.com)
 - [Oplo](www.myoplo.com)
 - [Believe Finance](https://www.believefinance.co.uk/)
