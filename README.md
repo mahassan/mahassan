@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning TypeScript
 - 👀 I,m currently looking for work.
-- 📫 How to reach me: my (email)[ammar@ammarhassan.co.uk)
+- 📫 How to reach me: my [email](ammar@ammarhassan.co.uk)
 
 <!--
 **mahassan/mahassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
