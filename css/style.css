@@ -1,10 +1,134 @@
  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Roboto:wght@100;300&display=swap');
-*{
+ @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins&display=swap');
+*, ul, li{
     margin:0;
     padding: 0;
+}
+ul, li{
+    list-style: none;
 }
 body{
     background-color: #A9D9D0;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto', sans-serif;
+}
+
+/* Navigation */
+.navigation,
+footer{
+    height: 100px;
+    background-color: #027373;
+    margin-top:50px;
+    color: #fff;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Pacifico', cursive;
+}
+.navigation a:link{
+    text-decoration: none;
+   
+}
+.navigation a:visited{
+    color: #F2E7DC;
+}
+ul{
+    display: flex;
+    justify-content:space-evenly;
+    width: 500px;
+}
+/* main */
+.masthead{
+    display: flex;
+    height: 90vh;
+}
+.masthead h1{
+    color: #0D0D0D;
+    font-family: 'Pacifico', cursive;
+    font-size: 4rem;
+    text-shadow: #F2E7DC -4px 6px;
+}
+h1,h2,h3,h4,h5{
+    color: #0D0D0D;
+    font-family: 'Pacifico', cursive;
+    text-shadow: #F2E7DC -4px 6px;
+}
+.col-1,
+.col-2{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.col-1{
+    flex-direction: column;
+}
+.col-1 span{
+    align-items: flex-start;
+}
+.drop-shadowed{
+    width:300px;
+    height: 300px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius:50px;
+    box-shadow: #F2E7DC -20px -10px;
+}
+/* CTAs */
+.CTA{
+    display: flex;
+    margin:1rem 0;
+    justify-content: space-around;
+    width: 500px;
+    margin: 0 auto;
+}
+.CTA a{
+    border-radius: 50px;
+    border:0;
+    padding:15px;
+    color: #F2E7DC;
+    background-color: #027373;
+    box-shadow: #F2E7DC -3px 3px;
+    cursor: pointer;
+    font-family: 'Pacifico', cursive;
+    text-decoration: none;
+}
+.job-desc,
+ul.list{
+    width: 100%;
+    border-bottom: #F2E7DC 3px dotted;
+    padding-bottom: 1rem;
+}
+.job-company,
+.job-desc{
+    margin: 5px 0 5px 15px;
+}
+img.case-study{
+    width:400px;
+    height: 400px;
+    box-shadow: #F2E7DC -20px -10px!important;
+}
+/* helper classes */
+.is-centered{
+    width: 100%;
+    text-align: center;
+}
+.is-column{
+    flex-direction: column;
+}
+.is-left{
+    justify-items: left;
+}
+.is-left ul li{
+    font-family: 'Pacifico', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+.is-centered h2{
+    font-size: 3rem;
+}
+.content{
+    width:800px;
+    margin: 0 auto;
 }
