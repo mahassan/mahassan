@@ -44,16 +44,19 @@ ul{
     display: flex;
     height: 90vh;
 }
+main{
+    width: 90vw;
+}
 .masthead h1{
     color: #0D0D0D;
     font-family: 'Pacifico', cursive;
     font-size: 4rem;
-    text-shadow: #F2E7DC -4px 6px;
+    text-shadow: -4px 6px #F2E7DC;
 }
 h1,h2,h3,h4,h5{
     color: #0D0D0D;
     font-family: 'Pacifico', cursive;
-    text-shadow: #F2E7DC -4px 6px;
+    text-shadow:-4px 6px #F2E7DC;
 }
 .col-1,
 .col-2{
@@ -74,7 +77,13 @@ h1,h2,h3,h4,h5{
     height: 300px;
     border-top-left-radius: 50px;
     border-bottom-right-radius:50px;
-    box-shadow: #F2E7DC -20px -10px;
+    box-shadow:-20px -10px #F2E7DC ;
+}
+.three-d-box{
+    width: 300px;
+    height: 100px;
+    margin:10px 5px 10px;
+    box-shadow: -10px 12px #027373;;
 }
 /* CTAs */
 .CTA{
@@ -115,8 +124,23 @@ img.case-study{
     width: 100%;
     text-align: center;
 }
+.is-centered-div{
+    justify-content: center;
+}
+.f-space-around{
+    justify-content: space-around;
+}
+.f-wrap{
+    flex-wrap: wrap;
+}
+.div-centered{
+    margin: 10px auto;
+}
 .is-column{
     flex-direction: column;
+}
+.is-row{
+    flex-direction: row!important;
 }
 .is-left{
     justify-items: left;
@@ -131,4 +155,9 @@ img.case-study{
 .content{
     width:800px;
     margin: 0 auto;
+}
+.thumbnails{
+    width: 400px;
+    height: 100px;
+    overflow: hidden;
 }
