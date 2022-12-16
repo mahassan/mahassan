@@ -46,6 +46,7 @@ ul{
 }
 main{
     width: 90vw;
+    margin: 0 auto;
 }
 .masthead h1{
     color: #0D0D0D;
@@ -160,4 +161,10 @@ img.case-study{
     width: 400px;
     height: 100px;
     overflow: hidden;
+}
+.mt-10{
+    margin-top:10px
+}
+.mb-10{
+    margin-bottom:10px
 }
