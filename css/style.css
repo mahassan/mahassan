@@ -27,17 +27,23 @@ footer{
     align-items: center;
     font-family: 'Pacifico', cursive;
 }
-.navigation a:link{
-    text-decoration: none;
-   
-}
-.navigation a:visited{
-    color: #F2E7DC;
-}
 ul{
     display: flex;
     justify-content:space-evenly;
     width: 500px;
+}
+/* navigation */
+.navigation a:link,
+.navigation a:visited{
+    text-decoration: none;
+    color: #A9D9D0;
+}
+.active{
+  text-decoration: underline;
+  color:#F2E7DC!important;
+}
+.navigation a:active{
+    
 }
 /* main */
 .masthead{
