@@ -37,13 +37,14 @@ ul{
 .navigation a:visited{
     text-decoration: none;
     color: #A9D9D0;
+    transition: color 1s;
 }
 .active{
   text-decoration: underline;
   color:#F2E7DC!important;
 }
-.navigation a:active{
-    
+.navigation a:hover{
+    color:#F2E7DC
 }
 /* main */
 .masthead{
