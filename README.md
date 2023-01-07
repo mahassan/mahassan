@@ -4,7 +4,7 @@
 - [Specsavers](www.specsavers.co.uk)
 - [Travis Perkins](www.travisperkins.co.uk)
 - [Simply Money](https://simplymoney.com)
-- [Oplo](www.myoplo.com)
+- [Oplo](https://www.myoplo.com)
 - [Believe Finance](https://www.believefinance.co.uk/)
 - [Kukri Sports](www.kukrisports.co.uk)
 
